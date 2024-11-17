@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Dev-Mykee
+- 👀 I’m interested in threat intelligence and incident response
+- 🌱 I’m currently learning c++ and python for scripting and automation.
+- 💞️ I’m looking to collaborate on cybersecurity projects.
+- 😄 Pronouns: None
+- ⚡ Fun fact: I like to do stuff lol....
